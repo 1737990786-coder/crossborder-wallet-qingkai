@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="4200" height="5430" viewBox="0 0 4200 5430">
 <title>跨境宝钱包 PC 用户动线设计图</title>
-<desc>按转入、付款、提现、汇兑与支付设置展示页面、按钮、弹窗、正常跳转与异常返回的产品评审设计图。</desc>
+<desc>按转入、转出、提现、汇兑与支付管理展示页面、按钮、弹窗、正常跳转与异常返回的产品评审设计图。</desc>
 <rect x="0" y="0" width="4200" height="5430" rx="0" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <text x="80" y="89" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="49" font-weight="600" text-anchor="start" fill="#20334C">跨境宝钱包 · PC 端用户动线设计图</text>
-<text x="83" y="137" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#7D8CA0">页面 / 弹窗 / 按钮 / 跳转 / 异常返回 · 产品评审稿 V1.0 · 2026.11.08</text>
+<text x="83" y="137" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#7D8CA0">页面 / 弹窗 / 按钮 / 跳转 / 异常返回 · 产品评审稿 V1.1 · 2026.11.08</text>
 <rect x="3485" y="61" width="266.408" height="32" rx="16" fill="#F3EFF9" stroke="none" stroke-width="1.6"/>
-<text x="3498" y="83" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#7B62AA">独立设计图 · 原型未修改</text>
+<text x="3498" y="83" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#7B62AA">独立设计图 · 与原型同步</text>
 <text x="80" y="192" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#20334C">阅读方式：每行从左到右；箭头从具体按钮出发；同编号表示同一页面，重复画出便于追踪跨模块跳转。</text>
 <rect x="45" y="226" width="4110" height="520" rx="18" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.6"/>
 <text x="86" y="258" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="500" text-anchor="start" fill="#336BD6">P00 / 共享起点：钱包总览</text>
@@ -17,37 +17,31 @@
 <rect x="98" y="362" width="130" height="29" rx="4" fill="#EDF4FF" stroke="none" stroke-width="1.6"/>
 <text x="110" y="383" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#336BD6">钱包总览</text>
 <text x="110" y="418" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">转入</text>
-<text x="110" y="453" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">付款</text>
+<text x="110" y="453" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">转出</text>
 <text x="110" y="488" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">提现</text>
 <text x="110" y="523" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">汇兑</text>
-<text x="110" y="558" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">支付设置</text>
-<text x="110" y="593" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">资金明细</text>
+<text x="110" y="558" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">资金明细</text>
 <text x="269" y="349" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="600" text-anchor="start" fill="#20334C">跨境宝</text>
-<rect x="269" y="370" width="1064" height="137" rx="10" fill="#244C7B" stroke="none" stroke-width="1.6"/>
-<text x="292" y="402" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#CCDAEE">总资产 · 折合人民币</text>
-<text x="292" y="448" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="35" font-weight="600" text-anchor="start" fill="#FFFFFF">¥ 326,700.00</text>
-<text x="292" y="485" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="500" text-anchor="start" fill="#FFFFFF">可采购余额合计  ¥ 301,100.00</text>
-<text x="933" y="485" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#CCDAEE">冻结 / 处理中  ¥ 25,600.00</text>
-<rect x="269" y="528" width="200" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="369.0" y="553" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">转入</text>
-<circle cx="449" cy="523" r="12" fill="#FFFFFF" stroke="#336BD6" stroke-width="1.5"/>
-<text x="449" y="529" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" font-weight="500" text-anchor="middle" fill="#336BD6">01</text>
-<rect x="485" y="528" width="200" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="585.0" y="553" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">付款</text>
-<circle cx="665" cy="523" r="12" fill="#FFFFFF" stroke="#336BD6" stroke-width="1.5"/>
-<text x="665" y="529" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" font-weight="500" text-anchor="middle" fill="#336BD6">02</text>
-<rect x="701" y="528" width="200" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="801.0" y="553" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">提现</text>
-<circle cx="881" cy="523" r="12" fill="#FFFFFF" stroke="#336BD6" stroke-width="1.5"/>
-<text x="881" y="529" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" font-weight="500" text-anchor="middle" fill="#336BD6">03</text>
-<rect x="917" y="528" width="200" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="1017.0" y="553" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">汇兑</text>
-<circle cx="1097" cy="523" r="12" fill="#FFFFFF" stroke="#336BD6" stroke-width="1.5"/>
-<text x="1097" y="529" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" font-weight="500" text-anchor="middle" fill="#336BD6">04</text>
-<rect x="1133" y="528" width="200" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="1233.0" y="553" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">支付设置</text>
-<circle cx="1313" cy="523" r="12" fill="#FFFFFF" stroke="#336BD6" stroke-width="1.5"/>
-<text x="1313" y="529" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="13" font-weight="500" text-anchor="middle" fill="#336BD6">05</text>
+<rect x="269" y="370" width="1064" height="204" rx="10" fill="#193E6C" stroke="none" stroke-width="1.6"/>
+<text x="292" y="400" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#CCDAEE">企业资金账户</text>
+<rect x="1163" y="382" width="148" height="30" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="1237.0" y="407" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">支付管理</text>
+<text x="292" y="437" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#CCDAEE">账户余额 · CNY</text>
+<text x="292" y="475" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#FFFFFF">94,300.00</text>
+<text x="642" y="437" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#CCDAEE">我的费率</text>
+<text x="642" y="475" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#FFFFFF">0.125%</text>
+<text x="992" y="437" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#CCDAEE">可采购额度 · CNY</text>
+<text x="992" y="475" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#FFFFFF">301,100.00</text>
+<circle cx="1293" cy="431" r="10" fill="#193E6C" stroke="#CCDAEE" stroke-width="1.5"/>
+<text x="1293" y="437" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="500" text-anchor="middle" fill="#FFFFFF">i</text>
+<rect x="289" y="509" width="244" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
+<text x="411.0" y="534" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">转入</text>
+<rect x="549" y="509" width="244" height="38" rx="6" fill="#34577F" stroke="#34577F" stroke-width="1.4"/>
+<text x="671.0" y="534" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">转出</text>
+<rect x="809" y="509" width="244" height="38" rx="6" fill="#34577F" stroke="#34577F" stroke-width="1.4"/>
+<text x="931.0" y="534" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">提现</text>
+<rect x="1069" y="509" width="244" height="38" rx="6" fill="#34577F" stroke="#34577F" stroke-width="1.4"/>
+<text x="1191.0" y="534" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">汇兑</text>
 <rect x="269" y="590" width="341" height="80" rx="7" fill="#F4F7FB" stroke="#DCE4EF" stroke-width="1.6"/>
 <text x="283" y="616" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">跨境宝</text>
 <text x="283" y="651" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" text-anchor="start" fill="#20334C">CNY 90,000.00</text>
@@ -80,17 +74,17 @@
 <circle cx="2163" cy="454" r="20" fill="#EDF4FF" stroke="none" stroke-width="1.5"/>
 <text x="2163" y="461" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="middle" fill="#336BD6">2</text>
 <text x="2205" y="461" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="600" text-anchor="start" fill="#20334C">算清能花多少</text>
-<text x="2205" y="498" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">可采购余额汇总三方可用资金；冻结、待结算和银行卡不计入。</text>
+<text x="2205" y="498" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">可采购额度汇总三方可用资金；冻结、待结算和银行卡不计入。</text>
 <circle cx="2163" cy="565" r="20" fill="#EDF4FF" stroke="none" stroke-width="1.5"/>
 <text x="2163" y="572" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="middle" fill="#336BD6">3</text>
 <text x="2205" y="572" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="600" text-anchor="start" fill="#20334C">原交易可继续</text>
-<text x="2205" y="609" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">改设置、补资金后回到原付款单；处理中查询原交易，避免重复扣款。</text>
+<text x="2205" y="609" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">转出与提现分开；处理中查询原交易，避免重复提交。</text>
 <rect x="3150" y="304" width="941" height="360" rx="12" fill="#F3EFF9" stroke="none" stroke-width="1.6"/>
 <text x="3180" y="347" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#7B62AA">主要查看入口</text>
-<text x="3180" y="391" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#20334C">首页「查看资产构成」</text>
+<text x="3180" y="391" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#20334C">首页「可采购额度」旁的小 i</text>
 <polyline points="3558,384 3657,384" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
 <polygon points="3657.00,384.00 3647.00,379.20 3647.00,388.80" fill="#7B62AA"/>
-<text x="3672" y="391" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7B62AA">D00 资产详情抽屉</text>
+<text x="3672" y="391" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7B62AA">D00 额度构成抽屉</text>
 <text x="3180" y="474" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#20334C">首页「查看明细 / 全部明细」</text>
 <polyline points="3558,467 3657,467" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
 <polygon points="3657.00,467.00 3647.00,462.20 3647.00,471.80" fill="#7B62AA"/>
@@ -254,7 +248,7 @@
 <text x="830.0" y="1315.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#BD8531">银行转账</text>
 <rect x="1280" y="1345" width="560" height="175" rx="9" fill="#FFF2F3" stroke="#C45B65" stroke-width="1.4"/>
 <text x="1298" y="1377" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#C45B65">E-R01  转入校验不通过</text>
-<text x="1298" y="1405" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">未授权 → 账户授权；超额 → 修改金额</text>
+<text x="1298" y="1405" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">未授权 → 支付管理；超额 → 修改金额</text>
 <text x="1298" y="1434" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">冻结 / 待结算资金不能转入</text>
 <rect x="1298.0" y="1471" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
 <text x="1560.0" y="1496" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#C45B65">返回 R02 重新填写</text>
@@ -265,9 +259,9 @@
 <rect x="2010" y="1345" width="560" height="175" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
 <text x="2028" y="1377" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">R06  连接其他收款渠道</text>
 <text x="2028" y="1405" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">填写渠道名 / 商户号 / 入账位置</text>
-<text x="2028" y="1434" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">点击确认连接 → S02 资金来源列表</text>
+<text x="2028" y="1434" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">点击确认连接 → R01 转入来源</text>
 <rect x="2028.0" y="1471" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="2290.0" y="1496" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">连接成功 → S02</text>
+<text x="2290.0" y="1496" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">连接成功 → R01</text>
 <polyline points="1087,1124.0 1155,1141 1155,1304 2290,1304 2290,1345" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
 <polygon points="2290.00,1345.00 2294.80,1335.00 2285.20,1335.00" fill="#7B62AA"/>
 <rect x="1786.0" y="1285.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
@@ -300,14 +294,14 @@
 <rect x="45" y="1615" width="9" height="850" rx="4" fill="#336BD6" stroke="none" stroke-width="1.6"/>
 <circle cx="101" cy="1663" r="25" fill="#336BD6" stroke="none" stroke-width="1.5"/>
 <text x="101" y="1672" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="middle" fill="#FFFFFF">02</text>
-<text x="145" y="1673" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#20334C">付款：1688 采购 / 其他供应商，共用一套确认与扣款路径</text>
-<text x="145" y="1710" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">判断标准：货款 + 服务费 − 优惠 ≤ 本次可用资金；支付顺序、币种转换与银行卡差额在确认前展示。</text>
+<text x="145" y="1673" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#20334C">转出：跨境宝余额 → ACP / 国际站账户</text>
+<text x="145" y="1710" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">按原币种在同主体账户之间划转；仅使用跨境宝该币种可用余额。提现至银行卡使用独立入口。</text>
 <rect x="86" y="1830" width="350" height="176" rx="12" fill="#F4F7FB" stroke="#DCE4EF" stroke-width="1.6"/>
 <text x="108" y="1864" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="600" text-anchor="start" fill="#20334C">P00  钱包首页 / 一级菜单</text>
 <text x="108" y="1898" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">点击下列入口</text>
 <rect x="108" y="1933" width="306" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="261.0" y="1958" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">付款 / 去采购付款</text>
-<text x="550" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#336BD6">P01  /  选择订单或供应商</text>
+<text x="261.0" y="1958" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">转出</text>
+<text x="550" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#336BD6">O01  /  选择转入账户</text>
 <rect x="550" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="551" y="1761" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="565" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -320,13 +314,13 @@
 <rect x="562" y="1887" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="562" y="1922" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="562" y="1957" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="633" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">选择订单或供应商</text>
+<text x="633" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">选择转入账户</text>
 <rect x="633" y="1851" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="860.0" y="1876" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">1688 待付款采购单</text>
+<text x="860.0" y="1876" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">转至 ACP 账户</text>
 <rect x="633" y="1896" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="860.0" y="1921" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">其他供应商付款</text>
-<text x="633" y="1961" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">其他供应商需先填写收款方、业务单号、金额与用途</text>
-<text x="1280" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#336BD6">P02  /  确认本次扣款方案</text>
+<text x="860.0" y="1921" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">转至国际站账户</text>
+<text x="633" y="1961" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">两个选项进入相同的转出流程</text>
+<text x="1280" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#336BD6">O02  /  填写转出信息</text>
 <rect x="1280" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="1281" y="1761" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="1295" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -339,167 +333,160 @@
 <rect x="1292" y="1887" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="1292" y="1922" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="1292" y="1957" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="1363" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">确认本次扣款方案</text>
-<text x="1363" y="1868" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#7D8CA0">本次合计需支付</text>
-<text x="1363" y="1905" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="600" text-anchor="start" fill="#336BD6">CNY 120,150.00</text>
-<text x="1363" y="1933" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">跨境宝扣款</text>
-<text x="1817" y="1933" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 90,000.00</text>
-<text x="1363" y="1972" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">ACP 补足</text>
-<text x="1817" y="1972" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 30,150.00</text>
-<rect x="1363" y="1989" width="454" height="44" rx="5" fill="#EDF4FF" stroke="none" stroke-width="1.6"/>
-<text x="1373" y="2012" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#336BD6">勾选确认方案；外币按展示汇率兑换</text>
+<text x="1363" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">填写转出信息</text>
+<text x="1363" y="1865" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#7D8CA0">转出 / 转入账户</text>
+<rect x="1363" y="1875" width="454" height="34" rx="5" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1"/>
+<text x="1375" y="1898" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#20334C">跨境宝 → ACP</text>
+<text x="1363" y="1934" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#7D8CA0">币种与转出金额</text>
+<rect x="1363" y="1944" width="454" height="34" rx="5" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1"/>
+<text x="1375" y="1967" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#20334C">USD 1,000.00</text>
+<text x="1363" y="2011" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">可转出余额</text>
+<text x="1817" y="2011" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">USD 8,000.00</text>
 <rect x="1363.0" y="2044" width="454.0" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="1590.0" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">确认付款</text>
-<text x="2010" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">M01-P  /  核验支付权限</text>
-<rect x="2010" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#7B62AA" stroke-width="1.8"/>
+<text x="1590.0" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">下一步</text>
+<text x="2010" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#336BD6">O03  /  确认转出</text>
+<rect x="2010" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="2011" y="1761" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="2025" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
 <circle cx="2037" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
 <circle cx="2049" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
-<text x="2072" y="1781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#7D8CA0">浮层 · 保留原页面</text>
-<text x="2035" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">核验支付权限</text>
-<text x="2035" y="1871" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">展示操作人和付款验证方式</text>
-<rect x="2035" y="1884" width="510" height="44" rx="5" fill="#F3EFF9" stroke="none" stroke-width="1.6"/>
-<text x="2045" y="1907" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7B62AA">验证通过前，不提交扣款</text>
-<text x="2035" y="1954" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">点击取消，回到原付款确认页</text>
-<rect x="2035.0" y="2044" width="249.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="2159.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">取消</text>
-<rect x="2296.0" y="2044" width="249.0" height="38" rx="6" fill="#7B62AA" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="2420.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">验证通过并付款</text>
-<text x="2740" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#178E73">P03  /  付款结果</text>
-<rect x="2740" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
+<text x="2072" y="1781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#7D8CA0">阿里国际站  /  跨境宝</text>
+<rect x="2011" y="1791" width="59" height="308" rx="0" fill="#F6F8FC" stroke="none" stroke-width="1.6"/>
+<rect x="2022" y="1817" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<rect x="2022" y="1852" width="34" height="8" rx="3" fill="#EDF4FF" stroke="none" stroke-width="1.6"/>
+<rect x="2022" y="1887" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<rect x="2022" y="1922" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<rect x="2022" y="1957" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<text x="2093" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">确认转出</text>
+<text x="2093" y="1873" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">转出账户</text>
+<text x="2547" y="1873" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">跨境宝</text>
+<text x="2093" y="1912" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">转入账户</text>
+<text x="2547" y="1912" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">ACP · USD</text>
+<text x="2093" y="1951" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">转出费用</text>
+<text x="2547" y="1951" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">USD 0.00</text>
+<text x="2093" y="1990" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">实际到账</text>
+<text x="2547" y="1990" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">USD 1,000.00</text>
+<rect x="2093.0" y="2044" width="221.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="2203.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">上一步</text>
+<rect x="2326.0" y="2044" width="221.0" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
+<text x="2436.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">确认转出</text>
+<text x="2740" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">M01-O  /  核验支付权限</text>
+<rect x="2740" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#7B62AA" stroke-width="1.8"/>
 <rect x="2741" y="1761" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="2755" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
 <circle cx="2767" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
 <circle cx="2779" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
-<text x="2802" y="1781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#7D8CA0">阿里国际站  /  跨境宝</text>
-<rect x="2741" y="1791" width="59" height="308" rx="0" fill="#F6F8FC" stroke="none" stroke-width="1.6"/>
-<rect x="2752" y="1817" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<rect x="2752" y="1852" width="34" height="8" rx="3" fill="#EDF4FF" stroke="none" stroke-width="1.6"/>
-<rect x="2752" y="1887" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<rect x="2752" y="1922" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<rect x="2752" y="1957" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="2823" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">付款结果</text>
-<circle cx="3050.0" cy="1876" r="22" fill="#ECF8F2" stroke="none" stroke-width="1.5"/>
-<text x="3050.0" y="1883" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="500" text-anchor="middle" fill="#178E73">✓</text>
-<text x="3050.0" y="1927" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" text-anchor="middle" fill="#178E73">付款成功</text>
-<text x="2823" y="1967" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">实付总额</text>
-<text x="3277" y="1967" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 120,150.00</text>
-<rect x="2823" y="1984" width="454" height="44" rx="5" fill="#ECF8F2" stroke="none" stroke-width="1.6"/>
-<text x="2833" y="2007" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#178E73">扣减对应余额，回写采购单已付款</text>
-<rect x="2823.0" y="2044" width="221.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="2933.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#178E73">返回钱包</text>
-<rect x="3056.0" y="2044" width="221.0" height="38" rx="6" fill="#178E73" stroke="#178E73" stroke-width="1.4"/>
-<text x="3166.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">查看交易详情</text>
-<text x="3470" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">D02-P  /  交易详情抽屉</text>
-<rect x="3470" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#7B62AA" stroke-width="1.8"/>
+<text x="2802" y="1781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#7D8CA0">浮层 · 保留原页面</text>
+<text x="2765" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">核验支付权限</text>
+<text x="2765" y="1871" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">展示企业主体与操作人</text>
+<rect x="2765" y="1884" width="510" height="44" rx="5" fill="#F3EFF9" stroke="none" stroke-width="1.6"/>
+<text x="2775" y="1907" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7B62AA">验证通过前，不进行资金划转</text>
+<text x="2765" y="1954" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">点击取消，回到转出确认页</text>
+<rect x="2765.0" y="2044" width="249.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="2889.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">取消</text>
+<rect x="3026.0" y="2044" width="249.0" height="38" rx="6" fill="#7B62AA" stroke="#7B62AA" stroke-width="1.4"/>
+<text x="3150.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">验证通过并转出</text>
+<text x="3470" y="1745" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#178E73">O04  /  转出结果</text>
+<rect x="3470" y="1760" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="3471" y="1761" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="3485" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
 <circle cx="3497" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
 <circle cx="3509" cy="1775" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
-<text x="3532" y="1781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#7D8CA0">浮层 · 保留原页面</text>
-<text x="3495" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">交易详情抽屉</text>
-<text x="3495" y="1873" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">关联外销单</text>
-<text x="4005" y="1873" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">TA202611080328</text>
-<text x="3495" y="1912" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">关联采购单</text>
-<text x="4005" y="1912" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">202611080126</text>
-<text x="3495" y="1951" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">扣款来源</text>
-<text x="4005" y="1951" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">跨境宝 / ACP</text>
-<text x="3495" y="1988" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">原币金额、汇兑、费用、状态、时间</text>
-<rect x="3495.0" y="2044" width="510.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3750.0" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">关闭详情</text>
+<text x="3532" y="1781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#7D8CA0">阿里国际站  /  跨境宝</text>
+<rect x="3471" y="1791" width="59" height="308" rx="0" fill="#F6F8FC" stroke="none" stroke-width="1.6"/>
+<rect x="3482" y="1817" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<rect x="3482" y="1852" width="34" height="8" rx="3" fill="#EDF4FF" stroke="none" stroke-width="1.6"/>
+<rect x="3482" y="1887" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<rect x="3482" y="1922" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<rect x="3482" y="1957" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
+<text x="3553" y="1830" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">转出结果</text>
+<circle cx="3780.0" cy="1876" r="22" fill="#ECF8F2" stroke="none" stroke-width="1.5"/>
+<text x="3780.0" y="1883" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="500" text-anchor="middle" fill="#178E73">✓</text>
+<text x="3780.0" y="1927" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" text-anchor="middle" fill="#178E73">转出成功</text>
+<text x="3553" y="1967" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">转入账户</text>
+<text x="4007" y="1967" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">ACP · USD</text>
+<rect x="3553" y="1984" width="454" height="44" rx="5" fill="#ECF8F2" stroke="none" stroke-width="1.6"/>
+<text x="3563" y="2007" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#178E73">钱包减少，目标账户增加；三方资产不变</text>
+<rect x="3553.0" y="2044" width="221.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="3663.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#178E73">返回钱包</text>
+<rect x="3786.0" y="2044" width="221.0" height="38" rx="6" fill="#178E73" stroke="#178E73" stroke-width="1.4"/>
+<text x="3896.5" y="2069" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">查看交易详情</text>
 <polyline points="414,1952.0 482.0,1952.0 482.0,1938 550,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="550.00,1938.00 540.00,1933.20 540.00,1942.80" fill="#336BD6"/>
 <rect x="456.0" y="1849.0" width="52.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
 <text x="482.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">进入</text>
 <polyline points="1087,1869.0 1195.0,1869.0 1195.0,1938 1280,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="1280.00,1938.00 1270.00,1933.20 1270.00,1942.80" fill="#336BD6"/>
-<rect x="1142.0" y="1849.0" width="106.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1195.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">点击去付款</text>
+<rect x="1150.073" y="1849.0" width="89.85400000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1195.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">选择 ACP</text>
 <polyline points="1817.0,2063.0 1925.0,2063.0 1925.0,1938 2010,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="2010.00,1938.00 2000.00,1933.20 2000.00,1942.80" fill="#336BD6"/>
-<rect x="1845.0" y="1849.0" width="160.00000000000003" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1925.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">余额足够且已确认</text>
-<polyline points="2545.0,2063.0 2655.0,2063.0 2655.0,1938 2740,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="1863.0" y="1849.0" width="124.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1925.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">金额校验通过</text>
+<polyline points="2547.0,2063.0 2655.0,2063.0 2655.0,1938 2740,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="2740.00,1938.00 2730.00,1933.20 2730.00,1942.80" fill="#336BD6"/>
-<rect x="2593.0" y="1849.0" width="124.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="2655.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">渠道返回成功</text>
-<polyline points="3277.0,2063.0 3385.0,2063.0 3385.0,1938 3470,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="2611.0" y="1849.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="2655.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">点击确认</text>
+<polyline points="3275.0,2063.0 3385.0,2063.0 3385.0,1938 3470,1938" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="3470.00,1938.00 3460.00,1933.20 3460.00,1942.80" fill="#336BD6"/>
-<rect x="3323.0" y="1849.0" width="124.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="3385.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">点击查看详情</text>
-<rect x="1280" y="2180" width="560" height="215" rx="9" fill="#FFF2F3" stroke="#C45B65" stroke-width="1.4"/>
-<text x="1298" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#C45B65">E-P01  可采购余额不足</text>
-<text x="1298" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">示例：需付 360,450，当前可用 301,100</text>
-<text x="1298" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">明确提示还差 CNY 59,350.00</text>
-<rect x="1298.0" y="2346" width="256.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="1426.0" y="2371" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#C45B65">转入补足 → R01</text>
-<rect x="1566.0" y="2346" width="256.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="1694.0" y="2371" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#C45B65">设置补款 → S01</text>
-<polyline points="1590.0,2082 1590.0,2131.0 1560.0,2131.0 1560.0,2180" fill="none" stroke="#C45B65" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="1560.00,2180.00 1564.80,2170.00 1555.20,2170.00" fill="#C45B65"/>
-<rect x="1507.0" y="2110.0" width="106.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1560.0" y="2134.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#C45B65">不足：拦截</text>
-<rect x="2010" y="2180" width="560" height="215" rx="9" fill="#FFF7E9" stroke="#BD8531" stroke-width="1.4"/>
-<text x="2028" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#BD8531">P04  付款处理中</text>
-<text x="2028" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">资金已占用，不可再次使用</text>
-<text x="2028" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">查询原交易，不生成第二笔扣款</text>
-<rect x="2028.0" y="2346" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="2290.0" y="2371" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#BD8531">查询结果</text>
-<polyline points="2420.5,2082 2420.5,2131.0 2290.0,2131.0 2290.0,2180" fill="none" stroke="#BD8531" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="2290.00,2180.00 2294.80,2170.00 2285.20,2170.00" fill="#BD8531"/>
-<rect x="2246.0" y="2110.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="2290.0" y="2134.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#BD8531">结果未定</text>
-<rect x="2740" y="2180" width="560" height="215" rx="9" fill="#FFF2F3" stroke="#C45B65" stroke-width="1.4"/>
-<text x="2758" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#C45B65">E-P02  付款失败</text>
-<text x="2758" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">展示失败原因与资金处理结果</text>
-<text x="2758" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">已占用资金释放，允许调整后重试</text>
-<rect x="2758.0" y="2346" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3020.0" y="2371" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#C45B65">回 P02 调整并重试</text>
-<polyline points="2552.0,2365.0 2642,2346 2642,2268 2740,2268" fill="none" stroke="#C45B65" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="2740.00,2268.00 2730.00,2263.20 2730.00,2272.80" fill="#C45B65"/>
-<rect x="2634.0" y="2215.0" width="52.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="2660" y="2239.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#C45B65">失败</text>
-<polyline points="2552.0,2365.0 2643,2346 2643,1938 2740,1938" fill="none" stroke="#178E73" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="2740.00,1938.00 2730.00,1933.20 2730.00,1942.80" fill="#178E73"/>
-<rect x="2617.0" y="2114.0" width="52.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="2643" y="2138.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#178E73">成功</text>
-<rect x="3470" y="2180" width="560" height="215" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="3488" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">P05  保留付款草稿，继续原交易</text>
-<text x="3488" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">补资金或保存设置后，点击</text>
-<text x="3488" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">「返回付款，重新计算」</text>
-<rect x="3488.0" y="2346" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3750.0" y="2371" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">重新校验 → P02</text>
-<text x="86" y="2194" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="500" text-anchor="start" fill="#20334C">外销订单自动关联采购</text>
-<text x="86" y="2233" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">满足商品映射后生成采购单；自动付款的范</text>
-<text x="86" y="2262" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">围、供应商与限额由 S03 控制。</text>
-<text x="86" y="2364" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#BD8531">未结算资金不视作可用余额</text>
-<rect x="550" y="2180" width="560" height="215" rx="9" fill="#EDF4FF" stroke="#336BD6" stroke-width="1.4"/>
-<text x="568" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#336BD6">P01-A  填写供应商付款信息</text>
-<text x="568" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">选择收款方 / 填写业务单号</text>
-<text x="568" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">填写币种、金额与用途</text>
-<rect x="568.0" y="2346" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="830.0" y="2371" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">下一步</text>
+<rect x="3332.0" y="1849.0" width="106.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="3385.0" y="1873.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">验证并转出</text>
+<rect x="550" y="2180" width="560" height="190" rx="9" fill="#EDF4FF" stroke="#336BD6" stroke-width="1.4"/>
+<text x="568" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#336BD6">O01-I  选择国际站账户</text>
+<text x="568" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">转入账户改为国际站，其余步骤一致</text>
+<text x="568" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">币种与金额由用户填写</text>
+<rect x="568.0" y="2321" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="830.0" y="2346" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#336BD6">继续填写 → O02</text>
 <polyline points="1087,1914.0 1132,1914.0 1132,2145 830.0,2145 830.0,2180" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="830.00,2180.00 834.80,2170.00 825.20,2170.00" fill="#336BD6"/>
 <rect x="777.0" y="2126.0" width="106.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="830.0" y="2150.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">其他供应商</text>
-<polyline points="1092.0,2365.0 1190,2346 1190,2020 1280,2020" fill="none" stroke="#336BD6" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="1280.00,2020.00 1270.00,2015.20 1270.00,2024.80" fill="#336BD6"/>
-<rect x="1119.0" y="2087.0" width="142.0" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1190" y="2111.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">填写并校验通过</text>
-<rect x="2028" y="2121" width="220" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
-<text x="2138.0" y="2150" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">取消 → P02</text>
-<polyline points="2159.5,2082 2159.5,2106 2138.0,2106 2138.0,2121" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="2138.00,2121.00 2142.80,2111.00 2133.20,2111.00" fill="#7B62AA"/>
-<rect x="2770" y="2121" width="245" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
-<text x="2892.5" y="2150" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">返回钱包 → P00</text>
-<polyline points="2933.5,2082 2933.5,2106 2892.5,2106 2892.5,2121" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="2892.50,2121.00 2897.30,2111.00 2887.70,2111.00" fill="#7B62AA"/>
-<rect x="3500" y="2121" width="300" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
-<text x="3650.0" y="2150" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">关闭 → P03</text>
-<polyline points="3750.0,2082 3750.0,2106 3650.0,2106 3650.0,2121" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="3650.00,2121.00 3654.80,2111.00 3645.20,2111.00" fill="#7B62AA"/>
+<text x="830.0" y="2150.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#336BD6">选择国际站</text>
+<rect x="1280" y="2180" width="560" height="190" rx="9" fill="#FFF2F3" stroke="#C45B65" stroke-width="1.4"/>
+<text x="1298" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#C45B65">E-O01  转出金额不合法</text>
+<text x="1298" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">金额 ≤ 0 / 超出跨境宝可用余额</text>
+<text x="1298" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">冻结资金、其他账户余额不参与补足</text>
+<rect x="1298.0" y="2321" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="1560.0" y="2346" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#C45B65">修改金额 → O02</text>
+<polyline points="1590.0,2082 1590.0,2131.0 1560.0,2131.0 1560.0,2180" fill="none" stroke="#C45B65" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1560.00,2180.00 1564.80,2170.00 1555.20,2170.00" fill="#C45B65"/>
+<rect x="1516.0" y="2110.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1560.0" y="2134.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#C45B65">校验失败</text>
+<rect x="2010" y="2180" width="560" height="190" rx="9" fill="#FFF7E9" stroke="#BD8531" stroke-width="1.4"/>
+<text x="2028" y="2212" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#BD8531">O05  目标账户授权关闭</text>
+<text x="2028" y="2240" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">仍可转至该同主体账户</text>
+<text x="2028" y="2269" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">到账余额暂不计入可采购额度</text>
+<text x="2028" y="2298" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">如需调用，进入支付管理开启授权</text>
+<polyline points="2436.5,2082 2436.5,2131.0 2290.0,2131.0 2290.0,2180" fill="none" stroke="#BD8531" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="2290.00,2180.00 2294.80,2170.00 2285.20,2170.00" fill="#BD8531"/>
+<rect x="2228.0" y="2110.0" width="124.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="2290.0" y="2134.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#BD8531">展示授权提示</text>
+<rect x="2740" y="2206" width="250" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
+<text x="2865.0" y="2235" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">取消 → O03</text>
+<rect x="3006" y="2206" width="294" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
+<text x="3153.0" y="2235" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">上一步 → O02</text>
+<polyline points="2889.5,2082 2889.5,2148 2865,2148 2865,2206" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
+<polygon points="2865.00,2206.00 2869.80,2196.00 2860.20,2196.00" fill="#7B62AA"/>
+<rect x="2839.0" y="2129.0" width="52.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="2865" y="2153.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">取消</text>
+<polyline points="2203.5,2082 2203.5,2119 3153.0,2119 3153.0,2206" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
+<polygon points="3153.00,2206.00 3157.80,2196.00 3148.20,2196.00" fill="#7B62AA"/>
+<rect x="2643.25" y="2100.0" width="70.0" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="2678.25" y="2124.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">上一步</text>
+<rect x="3470" y="2206" width="250" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
+<text x="3595.0" y="2235" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">P00 钱包首页</text>
+<rect x="3736" y="2206" width="294" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
+<text x="3883.0" y="2235" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">D02 交易详情</text>
+<polyline points="3663.5,2082 3663.5,2148 3595,2148 3595,2206" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
+<polygon points="3595.00,2206.00 3599.80,2196.00 3590.20,2196.00" fill="#7B62AA"/>
+<rect x="3551.0" y="2129.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="3595" y="2153.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">返回钱包</text>
+<polyline points="3896.5,2082 3896.5,2163 3883,2163 3883,2206" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
+<polygon points="3883.00,2206.00 3887.80,2196.00 3878.20,2196.00" fill="#7B62AA"/>
+<rect x="3839.0" y="2144.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="3883" y="2168.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">查看详情</text>
+<text x="86" y="2231" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="500" text-anchor="start" fill="#336BD6">转出 ≠ 提现</text>
+<text x="86" y="2271" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">ACP / 国际站 → 本流程</text>
+<text x="86" y="2301" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">企业银行卡 → 提现 W01</text>
 <rect x="45" y="2500" width="4110" height="745" rx="18" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
 <rect x="45" y="2500" width="9" height="745" rx="4" fill="#336BD6" stroke="none" stroke-width="1.6"/>
 <circle cx="101" cy="2548" r="25" fill="#336BD6" stroke="none" stroke-width="1.5"/>
@@ -877,14 +864,14 @@
 <rect x="45" y="4050" width="9" height="890" rx="4" fill="#7B62AA" stroke="none" stroke-width="1.6"/>
 <circle cx="101" cy="4098" r="25" fill="#7B62AA" stroke="none" stroke-width="1.5"/>
 <text x="101" y="4107" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="middle" fill="#FFFFFF">05</text>
-<text x="145" y="4108" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#20334C">支付设置：配置顺序、资金授权与自动采购规则</text>
-<text x="145" y="4145" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">设置保存后用于下一笔交易；若从付款确认页进入，保存后可返回原付款单重新计算。</text>
+<text x="145" y="4108" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="600" text-anchor="start" fill="#20334C">支付管理：同一页面调整支付顺序与渠道授权</text>
+<text x="145" y="4145" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">以下为同一个页面的不同操作状态，不是子页面或 Tab。修改后统一保存，仅影响新交易。</text>
 <rect x="86" y="4265" width="350" height="176" rx="12" fill="#F4F7FB" stroke="#DCE4EF" stroke-width="1.6"/>
-<text x="108" y="4299" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="600" text-anchor="start" fill="#20334C">P00  钱包首页 / 一级菜单</text>
+<text x="108" y="4299" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="600" text-anchor="start" fill="#20334C">P00  首页资金模块右上角</text>
 <text x="108" y="4333" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">点击下列入口</text>
 <rect x="108" y="4368" width="306" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
-<text x="261.0" y="4393" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">支付设置</text>
-<text x="550" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S00  /  支付设置入口</text>
+<text x="261.0" y="4393" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">支付管理</text>
+<text x="550" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S01  /  支付顺序与授权</text>
 <rect x="550" y="4230" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="551" y="4231" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="565" cy="4245" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -897,16 +884,17 @@
 <rect x="562" y="4357" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="562" y="4392" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="562" y="4427" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="633" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">支付设置入口</text>
-<rect x="633" y="4321" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="860.0" y="4346" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">支付顺序</text>
-<rect x="633" y="4366" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="860.0" y="4391" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">资金来源与入账</text>
-<rect x="633" y="4411" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="860.0" y="4436" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">自动采购付款</text>
-<rect x="633" y="4456" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="860.0" y="4481" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">银行卡与安全</text>
-<text x="1280" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S01  /  调整支付顺序</text>
+<text x="633" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">支付顺序与授权</text>
+<text x="633" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">1 · 跨境宝</text>
+<text x="1087" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">默认启用</text>
+<text x="633" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">2 · ACP</text>
+<text x="1087" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">授权开启</text>
+<text x="633" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">3 · 国际站</text>
+<text x="1087" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">授权开启</text>
+<text x="633" y="4458" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">每行展示：拖动 / 上下箭头 / 授权开关</text>
+<rect x="633.0" y="4514" width="454.0" height="38" rx="6" fill="#7B62AA" stroke="#7B62AA" stroke-width="1.4"/>
+<text x="860.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">上移 ACP</text>
+<text x="1280" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S01-A  /  同页 · 调整支付顺序</text>
 <rect x="1280" y="4230" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="1281" y="4231" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="1295" cy="4245" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -919,21 +907,19 @@
 <rect x="1292" y="4357" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="1292" y="4392" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="1292" y="4427" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="1363" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">调整支付顺序</text>
-<text x="1363" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">① 优先使用</text>
-<text x="1817" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">跨境宝余额</text>
-<text x="1363" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">② 不足时补足</text>
-<text x="1817" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">ACP 余额</text>
-<text x="1363" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">③ 再使用</text>
-<text x="1817" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">国际站余额</text>
-<text x="1363" y="4460" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#20334C">自动汇兑 / 银行卡补差</text>
-<rect x="1769" y="4442" width="46" height="24" rx="12" fill="#336BD6" stroke="none" stroke-width="1.6"/>
-<circle cx="1805" cy="4454" r="9" fill="#FFFFFF" stroke="none" stroke-width="1.5"/>
+<text x="1363" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">同页 · 调整支付顺序</text>
+<text x="1363" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">1 · ACP</text>
+<text x="1817" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">授权开启</text>
+<text x="1363" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">2 · 跨境宝</text>
+<text x="1817" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">默认启用</text>
+<text x="1363" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">3 · 国际站</text>
+<text x="1817" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">授权开启</text>
+<text x="1363" y="4458" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">顺序预览实时变化，未保存前不生效</text>
 <rect x="1363.0" y="4514" width="221.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="1473.5" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">恢复当前设置</text>
+<text x="1473.5" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">恢复已保存设置</text>
 <rect x="1596.0" y="4514" width="221.0" height="38" rx="6" fill="#7B62AA" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="1706.5" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">保存支付设置</text>
-<text x="2010" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S02  /  资金来源与入账</text>
+<text x="1706.5" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">关闭国际站授权</text>
+<text x="2010" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S01-B  /  同页 · 调整渠道授权</text>
 <rect x="2010" y="4230" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="2011" y="4231" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="2025" cy="4245" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -946,15 +932,17 @@
 <rect x="2022" y="4357" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="2022" y="4392" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="2022" y="4427" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="2093" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">资金来源与入账</text>
-<text x="2093" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">账户授权</text>
-<text x="2547" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">读取、调用与转入</text>
-<rect x="2093" y="4360" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="2320.0" y="4385" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">账户详情：授权 / 解除授权</text>
-<text x="2093" y="4425" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">新到账资金：保留原账户 / 可用后自动转入跨境宝</text>
+<text x="2093" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">同页 · 调整渠道授权</text>
+<text x="2093" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">ACP / 跨境宝</text>
+<text x="2547" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">保持启用</text>
+<text x="2093" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">国际站授权</text>
+<text x="2547" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">已关闭</text>
+<text x="2093" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">保存后可采购额度</text>
+<text x="2547" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 170,000.00</text>
+<text x="2093" y="4458" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">关闭后跳过该渠道；资金仍留在原账户</text>
 <rect x="2093.0" y="4514" width="454.0" height="38" rx="6" fill="#7B62AA" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="2320.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">保存入账规则</text>
-<text x="2740" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S03  /  自动采购付款</text>
+<text x="2320.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">保存更改</text>
+<text x="2740" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#178E73">S02  /  同页 · 保存成功</text>
 <rect x="2740" y="4230" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="2741" y="4231" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="2755" cy="4245" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -967,18 +955,16 @@
 <rect x="2752" y="4357" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="2752" y="4392" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="2752" y="4427" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="2823" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">自动采购付款</text>
-<text x="2823" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#20334C">允许自动采购付款</text>
-<rect x="3229" y="4325" width="46" height="24" rx="12" fill="#336BD6" stroke="none" stroke-width="1.6"/>
-<circle cx="3265" cy="4337" r="9" fill="#FFFFFF" stroke="none" stroke-width="1.5"/>
-<text x="2823" y="4383" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">单笔含费上限</text>
-<text x="3277" y="4383" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 50,000.00</text>
-<text x="2823" y="4422" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">每日含费上限</text>
-<text x="3277" y="4422" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 200,000.00</text>
-<text x="2823" y="4459" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">限定外销关联采购单与授权供应商</text>
-<rect x="2823.0" y="4514" width="454.0" height="38" rx="6" fill="#7B62AA" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="3050.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">保存自动付款授权</text>
-<text x="3470" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#7B62AA">S04  /  银行卡与安全</text>
+<text x="2823" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">同页 · 保存成功</text>
+<circle cx="3050.0" cy="4346" r="22" fill="#ECF8F2" stroke="none" stroke-width="1.5"/>
+<text x="3050.0" y="4353" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="500" text-anchor="middle" fill="#178E73">✓</text>
+<text x="3050.0" y="4397" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="600" text-anchor="middle" fill="#178E73">支付顺序与授权已保存</text>
+<text x="2823" y="4437" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">生效范围</text>
+<text x="3277" y="4437" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">后续新交易</text>
+<text x="2823" y="4474" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">可采购额度已按已授权余额重新计算</text>
+<rect x="2823.0" y="4514" width="454.0" height="38" rx="6" fill="#178E73" stroke="#178E73" stroke-width="1.4"/>
+<text x="3050.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">返回钱包</text>
+<text x="3470" y="4215" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#336BD6">P00-S  /  返回钱包首页</text>
 <rect x="3470" y="4230" width="560" height="340" rx="10" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.8"/>
 <rect x="3471" y="4231" width="558" height="30" rx="9" fill="#F4F7FB" stroke="none" stroke-width="1.6"/>
 <circle cx="3485" cy="4245" r="3" fill="#B9C5D5" stroke="none" stroke-width="1.5"/>
@@ -991,83 +977,76 @@
 <rect x="3482" y="4357" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="3482" y="4392" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
 <rect x="3482" y="4427" width="34" height="8" rx="3" fill="#E5EBF3" stroke="none" stroke-width="1.6"/>
-<text x="3553" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">银行卡与安全</text>
-<rect x="3553" y="4321" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3780.0" y="4346" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">管理企业银行卡</text>
-<rect x="3553" y="4366" width="454" height="36" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3780.0" y="4391" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">添加同名银行卡</text>
-<text x="3553" y="4431" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">付款验证与人员权限说明</text>
-<rect x="3553.0" y="4514" width="454.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3780.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">完成</text>
+<text x="3553" y="4300" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600" text-anchor="start" fill="#20334C">返回钱包首页</text>
+<text x="3553" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">账户余额</text>
+<text x="4007" y="4343" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 94,300.00</text>
+<text x="3553" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">我的费率</text>
+<text x="4007" y="4382" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">0.125%</text>
+<text x="3553" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#7D8CA0">可采购额度</text>
+<text x="4007" y="4421" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="500" text-anchor="end" fill="#20334C">CNY 170,000.00</text>
+<text x="3553" y="4458" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">国际站关闭授权，暂不计入额度</text>
+<rect x="3553.0" y="4514" width="454.0" height="38" rx="6" fill="#336BD6" stroke="#336BD6" stroke-width="1.4"/>
+<text x="3780.0" y="4539" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#FFFFFF">额度旁的小 i</text>
 <polyline points="414,4387.0 482.0,4387.0 482.0,4408 550,4408" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="550.00,4408.00 540.00,4403.20 540.00,4412.80" fill="#7B62AA"/>
-<rect x="456.0" y="4319.0" width="52.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="482.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">进入</text>
-<polyline points="1087,4339.0 1195.0,4339.0 1195.0,4408 1280,4408" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="429.0" y="4319.0" width="106.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="482.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">首页右上角</text>
+<polyline points="1087.0,4533.0 1195.0,4533.0 1195.0,4408 1280,4408" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
 <polygon points="1280.00,4408.00 1270.00,4403.20 1270.00,4412.80" fill="#7B62AA"/>
-<rect x="1133.0" y="4319.0" width="124.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1195.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击支付顺序</text>
-<polyline points="1087,4384.0 1140,4384.0 1140,4172 2290,4172 2290,4230" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="2290.00,4230.00 2294.80,4220.00 2285.20,4220.00" fill="#7B62AA"/>
-<polyline points="1087,4429.0 1160,4429.0 1160,4162 3020,4162 3020,4230" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="3020.00,4230.00 3024.80,4220.00 3015.20,4220.00" fill="#7B62AA"/>
-<polyline points="1087,4474.0 1180,4474.0 1180,4152 3750,4152 3750,4230" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="3750.00,4230.00 3754.80,4220.00 3745.20,4220.00" fill="#7B62AA"/>
-<rect x="2010" y="4618" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="2028" y="4650" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">A01  账户授权确认弹窗</text>
-<text x="2028" y="4678" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">展示企业主体和权限范围</text>
-<text x="2028" y="4707" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">同意 / 解除后更新可采购余额</text>
-<rect x="2028.0" y="4739" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="2290.0" y="4764" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">确认 → 回 S02</text>
-<polyline points="2547,4378.0 2602,4378.0 2602,4583 2290.0,4583 2290.0,4618" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="2290.00,4618.00 2294.80,4608.00 2285.20,4608.00" fill="#7B62AA"/>
-<rect x="2228.0" y="4564.0" width="124.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="2290.0" y="4588.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击账户授权</text>
-<rect x="2740" y="4618" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="2758" y="4650" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">A02  确认自动扣款授权</text>
-<text x="2758" y="4678" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">展示范围、供应商、单笔及每日限额</text>
-<text x="2758" y="4707" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">未满足条件：暂停，生成付款待办</text>
-<rect x="2758.0" y="4739" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3020.0" y="4764" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">确认授权并保存</text>
-<polyline points="3050.0,4552 3050.0,4585.0 3020.0,4585.0 3020.0,4618" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="3020.00,4618.00 3024.80,4608.00 3015.20,4608.00" fill="#7B62AA"/>
-<rect x="2967.0" y="4564.0" width="106.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="3020.0" y="4588.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">首次开启时</text>
-<rect x="3470" y="4618" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
-<text x="3488" y="4650" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">A03  添加银行卡弹窗</text>
-<text x="3488" y="4678" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">同名主体 / 银行 / 币种 / 尾号</text>
-<text x="3488" y="4707" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">验证失败：原位提示；成功：返回卡列表</text>
-<rect x="3488.0" y="4739" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="3750.0" y="4764" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">验证并添加 → S04</text>
-<polyline points="4007,4384.0 4062,4384.0 4062,4583 3750.0,4583 3750.0,4618" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="3750.00,4618.00 3754.80,4608.00 3745.20,4608.00" fill="#7B62AA"/>
-<rect x="3706.0" y="4564.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="3750.0" y="4588.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击添加</text>
-<rect x="1280" y="4618" width="560" height="170" rx="9" fill="#ECF8F2" stroke="#178E73" stroke-width="1.4"/>
-<text x="1298" y="4650" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#178E73">T01  保存成功提示</text>
-<text x="1298" y="4678" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">支付顺序 / 币种规则 / 补款规则已保存</text>
-<text x="1298" y="4707" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">只影响后续新交易，不改变处理中交易</text>
-<rect x="1298.0" y="4739" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
-<text x="1560.0" y="4764" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#178E73">如来自付款 → P02</text>
-<polyline points="1706.5,4552 1706.5,4585.0 1560.0,4585.0 1560.0,4618" fill="none" stroke="#178E73" stroke-width="2.5" stroke-linejoin="round"/>
-<polygon points="1560.00,4618.00 1564.80,4608.00 1555.20,4608.00" fill="#178E73"/>
-<rect x="1516.0" y="4564.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1560.0" y="4588.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#178E73">点击保存</text>
-<rect x="550" y="4636" width="560" height="45" rx="6" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.3"/>
-<text x="830.0" y="4665" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">恢复后停留 S01：保留已保存设置</text>
-<polyline points="1473.5,4552 1473.5,4598 830.0,4598 830.0,4636" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="8 6"/>
-<polygon points="830.00,4636.00 834.80,4626.00 825.20,4626.00" fill="#7B62AA"/>
-<rect x="1125.75" y="4579.0" width="52.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="1151.75" y="4603.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">恢复</text>
-<text x="550" y="4730" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="500" text-anchor="start" fill="#7B62AA">授权调用 ≠ 把余额搬进跨境宝</text>
-<text x="550" y="4766" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">银行卡不计入三方可采购余额合计</text>
-<rect x="1280" y="4836" width="2750" height="59" rx="9" fill="#F3EFF9" stroke="none" stroke-width="1.6"/>
-<text x="1300" y="4874" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7B62AA">跨模块继续：在 P02 点击「调整支付顺序 / 设置银行卡补款」 → S01；保存后点击「返回付款，重新计算」 → P02</text>
+<rect x="1151.0" y="4319.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1195.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击上移</text>
+<polyline points="1817.0,4533.0 1925.0,4533.0 1925.0,4408 2010,4408" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="2010.00,4408.00 2000.00,4403.20 2000.00,4412.80" fill="#7B62AA"/>
+<rect x="1881.0" y="4319.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1925.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击开关</text>
+<polyline points="2547.0,4533.0 2655.0,4533.0 2655.0,4408 2740,4408" fill="none" stroke="#178E73" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="2740.00,4408.00 2730.00,4403.20 2730.00,4412.80" fill="#178E73"/>
+<rect x="2611.0" y="4319.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="2655.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#178E73">点击保存</text>
+<polyline points="3277.0,4533.0 3385.0,4533.0 3385.0,4408 3470,4408" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="3470.00,4408.00 3460.00,4403.20 3460.00,4412.80" fill="#7B62AA"/>
+<rect x="3341.0" y="4319.0" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="3385.0" y="4343.0" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">返回钱包</text>
+<rect x="550" y="4635" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
+<text x="568" y="4667" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">S03  授权默认状态</text>
+<text x="568" y="4695" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">跨境宝默认启用，不可关闭</text>
+<text x="568" y="4724" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">ACP、国际站默认已授权，可随时开关</text>
+<text x="568" y="4753" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">开启不自动转入；关闭不转走资金</text>
+<rect x="1280" y="4635" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
+<text x="1298" y="4667" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">S04  恢复已保存设置</text>
+<text x="1298" y="4695" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">放弃未保存的顺序与授权调整</text>
+<text x="1298" y="4724" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">回到当前已经生效的规则</text>
+<rect x="1298.0" y="4756" width="524.0" height="38" rx="6" fill="#FFFFFF" stroke="#DCE4EF" stroke-width="1.4"/>
+<text x="1560.0" y="4781" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500" text-anchor="middle" fill="#7B62AA">恢复 → S01</text>
+<polyline points="1473.5,4552 1473.5,4593.5 1560.0,4593.5 1560.0,4635" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1560.00,4635.00 1564.80,4625.00 1555.20,4625.00" fill="#7B62AA"/>
+<rect x="1516.0" y="4572.5" width="88.00000000000001" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1560.0" y="4596.5" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击恢复</text>
+<rect x="2010" y="4635" width="560" height="170" rx="9" fill="#FFF7E9" stroke="#BD8531" stroke-width="1.4"/>
+<text x="2028" y="4667" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#BD8531">S05  保存前的变化只用于预览</text>
+<text x="2028" y="4695" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">开启或关闭、排序均保留在本页草稿</text>
+<text x="2028" y="4724" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">点击保存后，账户权限与顺序同时生效</text>
+<rect x="2740" y="4635" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
+<text x="2758" y="4667" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">S06  渠道关闭后的行为</text>
+<text x="2758" y="4695" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">新扣款与转入不再调用该来源</text>
+<text x="2758" y="4724" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">已提交交易继续处理；账户可接收转出资金</text>
+<text x="2758" y="4753" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">重新开启并保存后，额度重新纳入</text>
+<rect x="3470" y="4635" width="560" height="170" rx="9" fill="#F3EFF9" stroke="#7B62AA" stroke-width="1.4"/>
+<text x="3488" y="4667" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="600" text-anchor="start" fill="#7B62AA">D00-S  可采购额度构成抽屉</text>
+<text x="3488" y="4695" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">跨境宝 90,000 + ACP 80,000</text>
+<text x="3488" y="4724" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">国际站：授权关闭，计入额度为 0</text>
+<text x="3488" y="4753" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#20334C">关闭抽屉 → 返回原页面</text>
+<polyline points="3780.0,4552 3780.0,4593.5 3750.0,4593.5 3750.0,4635" fill="none" stroke="#7B62AA" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="3750.00,4635.00 3754.80,4625.00 3745.20,4625.00" fill="#7B62AA"/>
+<rect x="3710.509" y="4572.5" width="78.982" height="38" rx="5" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="3750.0" y="4596.5" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#7B62AA">点击小 i</text>
+<rect x="550" y="4846" width="3480" height="53" rx="9" fill="#F3EFF9" stroke="none" stroke-width="1.6"/>
+<text x="575" y="4880" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7B62AA">支付顺序与授权合并在一页；不再提供「资金来源与入账 / 自动采购付款 / 银行卡与安全」等子标签。</text>
 <rect x="45" y="4975" width="4110" height="370" rx="18" fill="#EAF0F8" stroke="#DCE4EF" stroke-width="1.6"/>
 <text x="86" y="5029" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="30" font-weight="600" text-anchor="start" fill="#20334C">共用出口与回退规则</text>
 <rect x="86" y="5064" width="976" height="150" rx="10" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
-<text x="109" y="5104" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="500" text-anchor="start" fill="#20334C">D00 资产详情抽屉</text>
-<text x="109" y="5149" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">查看总资产与可采购余额构成；关闭回 P00。</text>
+<text x="109" y="5104" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="500" text-anchor="start" fill="#20334C">D00 额度构成抽屉</text>
+<text x="109" y="5149" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">由额度旁的小 i 打开，查看三方可用余额；关闭回 P00。</text>
 <rect x="1106" y="5064" width="976" height="150" rx="10" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
 <text x="1129" y="5104" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="500" text-anchor="start" fill="#20334C">D01 资金明细</text>
 <text x="1129" y="5149" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">按类型、状态、订单筛选；点击「详情」→ D02。</text>
@@ -1078,7 +1057,7 @@
 <text x="3169" y="5104" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="500" text-anchor="start" fill="#20334C">Q01 权益中心</text>
 <text x="3169" y="5149" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#7D8CA0">查看费率与权益；点击「去汇兑」→ F01。</text>
 <text x="86" y="5260" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#20334C">通用操作：关闭弹窗 / 抽屉 → 回到触发它的原页面；「上一步」保留已填写的信息；「再办一笔」回到当前业务的填写页。</text>
-<text x="86" y="5303" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">说明：本图按现有原型拆解页面和操作。真实自动扣款、渠道能力、费用、结算条件及失败补偿机制仍需业务和研发评审确认。</text>
+<text x="86" y="5303" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#7D8CA0">说明：本图按现有原型拆解页面和操作。真实渠道能力、费用、结算条件及失败补偿机制仍需业务和研发评审确认。</text>
 <text x="80" y="5392" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#7D8CA0">跨境宝 · 外销内采钱包 / PC Wireflow</text>
-<text x="4120" y="5392" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#7D8CA0">一张画布 · 5 条主要动线 · 独立于交互原型</text>
+<text x="4120" y="5392" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#7D8CA0">一张画布 · 4 条资金动线 + 支付管理</text>
 </svg>

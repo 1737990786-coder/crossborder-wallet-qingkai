@@ -1,15 +1,10 @@
-# 跨境宝 · 外销内采钱包
+# 跨境宝钱包 · PC 端交互原型
 
-PC 端产品交互原型及独立用户动线设计图，全部账户、订单、汇率和费用均为演示数据。
+V1.1：账户余额、我的费率与可采购额度合并展示，四个资金操作入口为转入、转出、提现、汇兑。支付管理统一处理支付顺序与渠道授权。
 
-- `index.html`：可点击的完整钱包原型
-- `wireflow.html`：用户动线设计图，支持缩放及下载
-- `wireflow.svg` / `wireflow.pdf`：矢量设计图
+- 在线原型：https://1737990786-coder.github.io/crossborder-wallet-qingkai/
+- 用户动线：https://1737990786-coder.github.io/crossborder-wallet-qingkai/wireflow.html
 
-## 本地查看
+全部账户、金额、费率与交易均为演示数据，浏览器本地保存模拟状态，未接入真实资金系统。点击“重置”恢复默认数据。
 
-直接打开 `index.html`，或使用任意静态 HTTP 服务。无构建步骤，无后端，不产生真实资金交易。模拟操作仅保存于当前浏览器，换设备会从初始演示数据开始。
-
-## 发布
-
-GitHub Pages：使用 `main` 分支的根目录。
+静态部署入口为 index.html，GitHub Pages 从 main 分支根目录发布。
