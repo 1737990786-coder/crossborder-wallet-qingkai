@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>跨境宝 · 用户动线设计图</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#eef2f7;color:#20334c;font:14px -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}header{position:sticky;top:0;z-index:2;background:#fff;border-bottom:1px solid #dce4ef;padding:16px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}h1{font-size:18px;margin:0}small{color:#738299}.controls{margin-left:auto;display:flex;gap:8px;align-items:center;flex-wrap:wrap}button,a{font:inherit;text-decoration:none;border:1px solid #d3ddec;border-radius:6px;padding:8px 12px;background:white;color:#335e9c;cursor:pointer}button:hover,a:hover{background:#edf4ff}.primary{background:#336bd6;color:white;border-color:#336bd6}.primary:hover{background:#295cbf}#canvas{overflow:auto;padding:20px;min-height:calc(100vh - 80px)}#diagram{display:block;max-width:none;box-shadow:0 4px 24px #20334c15}#zoom{font-variant-numeric:tabular-nums;min-width:48px;text-align:center}@media(max-width:700px){header{padding:12px}.controls{margin-left:0}#canvas{padding:8px}}
+</style>
+</head>
+<body>
+<header><div><h1>跨境宝 · 用户动线设计图</h1><small>转入 / 付款 / 提现 / 汇兑 / 支付设置</small></div><div class="controls"><button id="fit">适合窗口</button><button id="minus" aria-label="缩小">−</button><span id="zoom" aria-live="polite"></span><button id="plus" aria-label="放大">＋</button><a href="wireflow.pdf" target="_blank" rel="noopener">查看 PDF</a><a href="wireflow.svg" download>下载 SVG</a><a class="primary" href="./">打开交互原型</a></div></header>
+<main id="canvas"><img id="diagram" src="wireflow.svg" alt="跨境宝钱包 PC 端用户动线设计图，展示页面、按钮连线、弹窗和异常返回路径"></main>
+<script>
+const diagram=document.getElementById('diagram'),canvas=document.getElementById('canvas'),zoom=document.getElementById('zoom');let scale=.3,fitMode=true;
+function render(){diagram.style.width=Math.round(4200*scale)+'px';zoom.textContent=Math.round(scale*100)+'%'}
+function fit(){fitMode=true;scale=Math.max(.08,Math.min(1,(canvas.clientWidth-(innerWidth<700?16:40))/4200));render()}
+document.getElementById('fit').onclick=fit;document.getElementById('plus').onclick=()=>{fitMode=false;scale=Math.min(2,scale*1.25);render()};document.getElementById('minus').onclick=()=>{fitMode=false;scale=Math.max(.08,scale/1.25);render()};addEventListener('resize',()=>{if(fitMode)fit()});fit();
+</script>
+</body></html>
